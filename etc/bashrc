@@ -211,6 +211,6 @@ unset cleaned foamClean foamOldDirs
 
 # Source the bash completion file:
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-[ "$BASH" ] && . $WM_PROJECT_DIR/etc/config.sh/bash_completion
+# [ "$BASH" ] && . $WM_PROJECT_DIR/etc/config.sh/bash_completion
 
 #------------------------------------------------------------------------------
